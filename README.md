@@ -15,4 +15,4 @@
 
 
 ## Моя статистика:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languagesergo0808=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?sergo0808=daniilshat&theme=solarized_dark)
