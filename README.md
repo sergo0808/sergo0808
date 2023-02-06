@@ -16,4 +16,5 @@
 
 ## Моя статистика:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergo0808&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergo0808&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![codewars](https://www.codewars.com/users/sovick90/badges/large)](https://www.codewars.com/users/sovick90)
