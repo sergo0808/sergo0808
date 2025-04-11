@@ -1,15 +1,11 @@
 # Привет всем, меня зовут Сергей 👋
 
-✔ Хочу развиватьться во фронтенде
+Я стремлюсь развиваться во фронтенд-разработке и всегда готов к новым вызовам. 
 
-✔ Получаю боевой опыт решая задачи в Codewars
+- ✔ Получаю боевой опыт, решая задачи на [Codewars](https://www.codewars.com/users/sovick90).
+- ✔ Открыт для сложных задач и новых технологий.
 
-✔ Всегда готов к любым сложностям
-
-
-
-
-## 🥋 Мой стек:
+## 🥋 Мой стек технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,8 +17,11 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ## 🏆 Моя статистика:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergo0808)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergo0808&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/sovick90/badges/large)](https://www.codewars.com/users/sovick90)
+
+---
+
+Спасибо за внимание! Буду рад новым знакомствам и возможностям для сотрудничества.
